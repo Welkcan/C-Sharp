@@ -1,0 +1,22 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\bin\Debug\Menus.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\bin\Debug\Menus.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menus\obj\x86\Debug\Menus.pdb
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.pdb
+C:\Users\Aluno\Desktop\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Aluno\Desktop\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\GenerateResource.write.1.tlog
